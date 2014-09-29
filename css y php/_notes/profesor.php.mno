@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_profesor" value="name:matricula_profesor;datatype:int,name:nombre_profesor;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:nombre_materia;datatype:string,name:direccion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string" />
+	<infoitem key="UD_profe" value="name:matricula_profesor;datatype:int,name:nombre_profesor;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:nombre_materia;datatype:string,name:direccion;datatype:string,name:correo;datatype:string,name:telefono;datatype:string,name:lugar_nacimiento;datatype:string,name:fecha_nacimiento;datatype:string,name:grado;datatype:int,name:grupo;datatype:string" />
+</info>

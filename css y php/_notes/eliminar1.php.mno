@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_elimina" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:matricula_periodo;datatype:string,name:id_grupo;datatype:int,name:grado;datatype:int,name:grupo;datatype:string,name:lugar;datatype:string,name:calle;datatype:string,name:fecha_nacimiento;datatype:string,name:telefono;datatype:string,name:correo;datatype:string" />
+	<infoitem key="UD_eliminar" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:matricula_periodo;datatype:string,name:id_grupo;datatype:int,name:grado;datatype:int,name:grupo;datatype:string,name:lugar;datatype:string,name:calle;datatype:string,name:fecha_nacimiento;datatype:string,name:telefono;datatype:string,name:correo;datatype:string" />
+</info>

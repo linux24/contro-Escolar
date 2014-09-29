@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dia" value="name:id_dia;datatype:int,name:dia;datatype:int" />
+	<infoitem key="UD_mes" value="name:id_mes;datatype:int,name:mes;datatype:string" />
+	<infoitem key="UD_year" value="name:id_year;datatype:int,name:year;datatype:string" />
+	<infoitem key="UD_fecha" value="name:id_fecha;datatype:int,name:fecha;datatype:date" />
+	<infoitem key="UD_insertar" value="name:num_control;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:grupo;datatype:string,name:grado;datatype:int,name:direccion;datatype:string,name:correo;datatype:string,name:telefono;datatype:blob,name:fecha_nacimiento;datatype:string" />
+</info>

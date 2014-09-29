@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_insertarTutor" value="name:id_tutor;datatype:int,name:nombre_tutor;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string,name:ocupacion;datatype:string,name:correo;datatype:string,name:num_control;datatype:int" />
+	<infoitem key="UD_alumno" value="name:num_control;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:grupo;datatype:string,name:grado;datatype:int,name:direccion;datatype:string,name:correo;datatype:string,name:telefono;datatype:blob,name:fecha_nacimiento;datatype:string" />
+</info>

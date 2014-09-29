@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_alumno" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:id_grupo;datatype:int,name:grado;datatype:int,name:grupo;datatype:string" />
+	<infoitem key="UD_grado" value="name:id_grado;datatype:int,name:nivel;datatype:int" />
+	<infoitem key="UD_grado1" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:matricula_periodo;datatype:string,name:grupo;datatype:string,name:grado;datatype:int,name:lugar;datatype:string,name:calle;datatype:string,name:fecha_nacimiento;datatype:string,name:telefono;datatype:string,name:correo;datatype:string" />
+	<infoitem key="UD_grupo" value="name:id_grupo;datatype:int,name:nombre_grupo;datatype:string" />
+	<infoitem key="UD_grup" value="name:id_grupo;datatype:int,name:nombre_grupo;datatype:string" />
+	<infoitem key="UD_alumnos" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:id_grupo;datatype:int,name:grado;datatype:int,name:grupo;datatype:string" />
+	<infoitem key="UD_year1" value="name:bimestre;datatype:int,name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:esp1;datatype:int,name:ingles1;datatype:int,name:matematicas1;datatype:int,name:ciencias1_biologia;datatype:int,name:geografia_mexico;datatype:int,name:educacion_fisica1;datatype:int,name:tecnologia1;datatype:int,name:artes1;datatype:int,name:asignatura_estatal;datatype:int,name:tutoria;datatype:int,name:tic;datatype:int,name:vida_saludable;datatype:int" />
+	<infoitem key="UD_idgrupo" value="name:id_grupo;datatype:int,name:nombre_grupo;datatype:string" />
+	<infoitem key="UD_bim1" value="name:matricula_year1;datatype:int,name:bimestre;datatype:int,name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:esp1;datatype:int,name:ingles1;datatype:int,name:matematicas1;datatype:int,name:ciencias1_biologia;datatype:int,name:geografia_mexico;datatype:int,name:educacion_fisica1;datatype:int,name:tecnologia1;datatype:int,name:artes1;datatype:int,name:asignatura_estatal;datatype:int,name:tutoria;datatype:int,name:tic;datatype:int,name:vida_saludable;datatype:int" />
+</info>

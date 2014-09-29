@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:matricula_year1;datatype:int,name:bimestre;datatype:int,name:grupo;datatype:string,name:matricula_alumno;datatype:int,name:esp3;datatype:int,name:ingles3;datatype:int,name:matematicas3;datatype:int,name:quimica;datatype:int,name:historia2;datatype:int,name:educacion_fisica3;datatype:int,name:tecnologia3;datatype:int,name:artes3;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:matricula_year1;datatype:int,name:bimestre;datatype:int,name:grupo;datatype:string,name:matricula_alumno;datatype:int,name:esp3;datatype:int,name:ingles3;datatype:int,name:matematicas3;datatype:int,name:quimica;datatype:int,name:historia2;datatype:int,name:educacion_fisica3;datatype:int,name:tecnologia3;datatype:int,name:artes3;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:matricula_year1;datatype:int,name:bimestre;datatype:int,name:grupo;datatype:string,name:matricula_alumno;datatype:int,name:esp3;datatype:int,name:ingles3;datatype:int,name:matematicas3;datatype:int,name:quimica;datatype:int,name:historia2;datatype:int,name:educacion_fisica3;datatype:int,name:tecnologia3;datatype:int,name:artes3;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_materias" value="name:id_materia;datatype:int,name:num_control;datatype:int,name:matematicas;datatype:int,name:fisica;datatype:int,name:quimica;datatype:int,name:algebra;datatype:int,name:geografia;datatype:int,name:programacion;datatype:int" />
+	<infoitem key="UD_alumnos" value="name:num_control;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:grupo;datatype:string,name:grado;datatype:int,name:direccion;datatype:string,name:correo;datatype:string,name:telefono;datatype:blob,name:fecha_nacimiento;datatype:string" />
+</info>

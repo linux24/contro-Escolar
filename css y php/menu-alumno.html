@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang=es>
+<head>
+	<base target="datos">
+
+<meta charset="utf-8" />
+<title>MENU-ALUMNO</title>
+</heda>
+<style type="text/css">
+body
+{
+	background: #2f3030;
+}
+
+ul li
+{
+	color:  white;
+	
+}
+
+
+div#menu
+{
+
+}
+
+div#logo-principal
+{
+	width: 40px;
+	height: 40px;
+	margin: 10px;
+	background-image: url(../img/logomenu.png);
+}
+
+div.contenedor-general
+{
+	background-color:#DDD;
+	width: 160px;
+	height: 40px;
+	margin-left: 10px;
+	-webkit-transition-duration: 2s;
+	border-radius: 10px;
+}
+
+div.contenedor-general:hover
+{
+	background: #2f3030;
+
+}
+
+
+div.logo-interior
+{
+	/*background: #f0f;*/
+	width: 40px;
+	height: 40px;
+	background-image: url(../img/logomenu.png); 
+	float: left;
+}
+div p.texto
+{
+	margin-left: 60px;
+	line-height: 40px;
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+	-webkit-transition-duration: 2s;
+}
+
+a:hover
+{
+color: #A2D9EC;
+}
+
+div#espacio
+{
+	margin-top: 50px;
+}
+
+
+</style>
+
+<body>
+
+	<div id="menu">
+
+
+<div id="logo-principal">
+</div>
+
+<!--inicia el primer logo con link-->
+<div  id="espacio" class="contenedor-general">
+	
+	<div class="logo-interior">
+   </div>
+
+   <p class="texto"><a href="menu.php" target="_parent">INICIO </a></p>
+
+</div>
+<!--termina el logo con link-->
+
+<!--SEGUNDO-->
+<div  id="espacio" class="contenedor-general" >
+	
+	<div class="logo-interior">
+   </div>
+
+   <p class="texto"><a href="http://localhost/proyecto/css%20y%20php/registroAlumno.php">NUEVO</a></p>
+
+</div>
+<!--RERMINO DEL SEGUNDO-->
+
+<!--TERCERO-->
+
+<div  id="espacio" class="contenedor-general">
+	
+	<div class="logo-interior">
+   </div>
+
+   <p class="texto"><a href="eliminar.php">ELIMINAR</a></p>
+
+</div>
+<!--TERMINO DEL TERCERO-->
+
+<!--CUARTO-->
+<div  id="espacio" class="contenedor-general">
+	
+	<div class="logo-interior">
+   </div>
+
+   <p class="texto"><a href="http://localhost/proyecto/css y php/actualizar-prueva.php">ACTUALIZAR</a></p>
+
+</div>
+<!--TERMINO DEL CUARTO-->
+
+<!--QUINTO-->
+<div  id="espacio" class="contenedor-general">
+	
+	<div class="logo-interior">
+   </div>
+
+   <p class="texto"><a href="http://localhost/proyecto/css y php/consultar.php">CONSULTAR</a></p>
+
+</div>
+
+<!--TERMINA EL QUINTO MENU-->
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_prueva;datatype:int,name:nombre;datatype:string,name:fecha;datatype:string,name:telefono;datatype:string,name:lugar;datatype:string" />
+	<infoitem key="UD_lugar" value="name:id_lugar;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_sexo" value="name:id_sexo;datatype:int,name:nombre;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:matricula_alumno;datatype:int,name:nombre_alumno;datatype:string,name:apellido_paterno;datatype:string,name:apellido_materno;datatype:string,name:matricula_periodo;datatype:string,name:id_grupo;datatype:int,name:grado;datatype:int,name:grupo;datatype:string,name:lugar;datatype:string,name:calle;datatype:string,name:fecha_nacimiento;datatype:string,name:telefono;datatype:string,name:correo;datatype:string,name:matricula_year1;datatype:int,name:bimestre;datatype:int,name:grupo;datatype:string,name:matricula_alumno;datatype:int,name:esp;datatype:int,name:ingles;datatype:int,name:matematicas;datatype:int,name:biologia;datatype:int,name:geografia;datatype:int,name:educacion_fisica;datatype:int,name:tecnologia;datatype:int,name:artes;datatype:int" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+</info>
